@@ -1,2 +1,2 @@
 # Grify Simple is better
-Grify é uma biblioteca que encapsula o ECharts para criar gráficos dinâmicos usando dados diretos, CSV ou fictícios
+A simple encapsulation of ECharts for creating dynamic charts with direct data, CSV, or generated fake data.
